@@ -54,3 +54,5 @@ public class Muhammed {
         short maximumSpeedKMH = 60;
     }
 }
+
+git checkout -b branchName
